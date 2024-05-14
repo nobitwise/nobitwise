@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nobitwise
+- 👀 I’m interested in tailwind, sveltekit
+- 🌱 I’m currently learning react
